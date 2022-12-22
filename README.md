@@ -1,7 +1,9 @@
-<h1 align="center"><b>Hi , I'm Mark Andonian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![github-header-image (1)](https://user-images.githubusercontent.com/76255186/209129031-4900bd60-0ed3-4076-9b73-06805d491089.png)
+
+
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+and+Software+Engineering+Student" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A15CB1&width=435&lines=Computer+and+Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
 
@@ -38,20 +40,15 @@
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>   
-    
+
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
-
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
 
 - **Softwares and Tools**:
 
@@ -60,7 +57,6 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 </p>
 
 <br>
@@ -84,12 +80,9 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -104,7 +97,6 @@
 </a>
 </li>
 
-<br>
 
 <li>
 <a href="mailto:markandonian123@gmail.com" target="_blank">
@@ -115,15 +107,4 @@
 </ul>
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
----
