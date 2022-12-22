@@ -16,9 +16,12 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Continuously learning programming languages at spare time
+- A passionate self-taught Back-end developer
+
+- Continuously learning programming languages at my spare time
+
 - Currently learning Java from Udemy
+
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
@@ -33,7 +36,7 @@
 - **Languages**:
     
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>   
     
@@ -97,7 +100,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/mark-andonian-b9ba25223/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  murrrk-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Mark-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -105,7 +108,7 @@
 
 <li>
 <a href="mailto:markandonian123@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  murrrk-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Mark-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
