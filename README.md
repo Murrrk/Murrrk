@@ -17,13 +17,13 @@
 
 <br>
 
-- A passionate self-taught Back-end developer
+- A passionate self-taught back-end developer
 
-- Continuously learning programming languages at my spare time
+- Continuously learning programming languages in my spare time
 
 - Currently learning Java from Udemy
 
-- I’m currently open for an Intern or a new job opportunity
+- I am currently available and actively seeking new internship or job opportunities.
 
 <br><br>
 
@@ -78,9 +78,13 @@
 <a href="https://github.com/Murrrk">
   <img src="https://github-readme-stats.vercel.app/api?username=murrrk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murrrk&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Murrrk"/>
+	
+![LeetCode Stats](https://leetcard.jacoblin.cool/xmurrk?theme=unicorn&font=Arvo&ext=heatmap)
 
 </a>
 </div>
+
+
 
 <br>
 
